@@ -1,4 +1,4 @@
-# 
+# VIP AI leaf disease detection system extensiones. Con extracción de características y toma de decisiones automatizada — optimizado para el máximo rendimiento.
 
 
 
